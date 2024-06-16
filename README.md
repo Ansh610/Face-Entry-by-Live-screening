@@ -18,7 +18,7 @@ In this way, FaceEntry will allow an efficient and secure entrance system for mo
 ->Ardunio UNO, LCD, Buzzer 
 ->Intregated all toegother 
 ->run both!! ardunio & .py using laucher
-![image](https://github.com/Jasngh004/FaceEntry/assets/79835147/e634b855-31f8-4a14-9cd8-75ba6956a833)
+
 
 
 
