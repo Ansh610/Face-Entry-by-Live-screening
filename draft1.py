@@ -57,7 +57,7 @@ while True:
         cv2.putText(frame, text, (left, top - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.7, color, 2)
 
 
-        project_info_text = "Minor Project - Jatin (Face Entry)"
+        project_info_text = "Minor Project - Ansh (Face Entry)"
         text_size = cv2.getTextSize(project_info_text, cv2.FONT_HERSHEY_SIMPLEX, 0.5, 1)[0]
         text_x = frame.shape[1] - text_size[0] - 50  
         cv2.putText(frame, project_info_text, (text_x, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255,255,255), 1)
